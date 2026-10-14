@@ -1,0 +1,336 @@
+order_id,order_date,customer_id,customer_name,email,phone,city,province,product_category,product_name,quantity,unit_price_idr,discount_pct,payment_method,order_status,shipping_days,total_amount_idr
+ORD-2026-0117,2026-10-01,CUST-0026, Maya Nugroho,maya.nugroho026@example.com,08371000962,Tangerang,banten,kecantikan,Sunscreen SPF 50,3.0,66000,25.0,Bank Transfer,shipped,3,762258
+ORD-2025-0278,2025-12-17,CUST-0023,Galih Prakoso,galih.prakoso023@example.com,08341000851,Bekasi,jawa barat,Fashion,Cotton Hoodie,1.0,263000,20.0,cash on delivery,Delivered,4,210400
+ORD-2026-0048,2026-06-13,CUST-0006,Rizky Pertiwi,rizky.pertiwi006@example.com,+628171000222,Bogor,jawa barat,beauty,Lip Balm,3.0,134000,0.0,E-Wallet,Delivered,8,402000
+ORD-2025-0054,2025-11-18,CUST-0017,Nabila Ramadhan,,+628281000629,Jakarta Selatan,dki jakarta,home and living,Storage Organizer,2.5,41000,0.15,E-Wallet,processing,0,174250
+ORD-2025-0108,2025-11-26,CUST-0051,anisa setiawan,user@,08621001887,Makassar,sulawesi selatan,Fashion,Basic T-Shirt,3.0,46000,10.0,Bank Transfer,selesai,8,124200
+ORD-2026-0064,2026-06-15,CUST-0084,REZA PUSPITA,reza.puspita084@example.com,+628951003108,Makassar,sulawesi selatan,Fashion,Canvas Tote Bag,5.0,183000,0.15,credit card,Delivered,4,777750
+ORD-2025-0098,2025-11-13,CUST-0030, Rizky Puspita,rizky.puspita030@example.com,08411001110,Surabaya,jawa timur,home & living,Ceramic Mug,4.0,182000,0.0,E-Wallet,shipped,4,728000
+ORD-2026-0174,2026-07-01,CUST-0026,Doni Mahendra,doni.mahendra026@example.com,08371000962,Tidak diketahui,jawa tengah,Electronics,BLUETOOTH SPEAKER,4.0,585000,15.0,Bank Transfer,shipped,8,1989000
+ORD-2026-0268,2026-04-06,CUST-0095,Aulia  Suryani,aulia.suryani095@example.com,+628181003515,Jakarta Selatan,dki jakarta,home and living,Desk Lamp,4.0,0,20.0,cash on delivery,processing,0,774400
+ORD-2025-0034,2025-12-17,CUST-0038,Yoga Kurniawan,yoga.kurniawan038@example.com,+628491001406,Denpasar,tidak diketahui,Fashion,Canvas Tote Bag,2.0,447000,15.0,tidak diketahui,shipped,5,759900
+ORD-2026-0312,2026-10-05,CUST-0048,Andi Pratama,andi.pratama048@example.com,+628591001776,Tidak diketahui,jawa timur,sembako,Ground Coffee 200g,2.0,111000,20.0,E-Wallet,Delivered,7,177600
+ORD-2026-0003,2026-09-05,CUST-0046,Lina Utami,lina.utami046@example.com,08571001702, Semarang,jawa tengah,sports,YOGA MAT,5.0,187000,0.0,ovo,selesai,7,935000
+ORD-2026-0012,2026-01-06,CUST-0082,ARIF HIDAYAT,arif.hidayat082@example.com,+628931003034,Medan,sumatera utara,books,Children Storybook,5.0,32000,0.0,Bank Transfer,returned,3,160000
+ORD-2026-0240,2026-08-23,CUST-0041,doni kurniawan,doni.kurniawan041@example.com,08521001517,Semarang,jawa tengah,olahraga,Sports Towel,4.0,54000,10.0,kartu kredit,Delivered,7,194400
+ORD-2026-0041,2026-03-20,CUST-0090,Nadia Amalia,nadia.amalia090@example.com,+628131003330,Yogyakarta,di yogyakarta,home & living,Ceramic Mug,2.0,98000,15.0,cash on delivery,selesai,1,166600
+ORD-2026-0011,2026-06-13,CUST-0070, anisa amalia,anisa.amalia070@example.com,,Palembang,sumatera selatan,Electronics,Webcam HD,5.0,381000,20.0,Bank Transfer,returned,many,547294
+ORD-2026-0091,2026-03-09,CUST-0011,BAGAS SANTOSO,bagas.santoso011@example.com,08221000407,BANDUNG,jawa barat,Electronics,Bluetooth Speaker,3.0,818000,20.0,ovo,Delivered,2,1963200
+ORD-2026-0170,2026-06-15,CUST-0082,Lestari Santoso,lestari.santoso082@example.com,08931003034,Bekasi,jawa barat,Electronics,Mechanical Keyboard,2.0,101000,-10.0,credit card,dalam pengiriman,4,151500
+ORD-2026-0047,2026-08-04,CUST-0072,Andi Setiawan,andi.setiawan072@example.com,08831002664,Yogyakarta,di yogyakarta,groceries,Green Tea Pack,5.0,23000,20.0,cod,shipped,1,92000
+ORD-2026-0210,2026-04-05,CUST-0061,Bagas Wibowo,bagas.wibowo061@example.com,08721002257,Kediri,jawa timur,books,Children Storybook,1.0,31000,10.0,card,Delivered,9,1025497
+ORD-2026-0295,2026-04-11,CUST-0056,BAYU WIJAYA,bayu.wijaya056@example.com,08671002072,Tidak diketahui,banten,Fashion,Basic T-Shirt,3.0,108000,15.0,Bank Transfer,processing,0,275400
+ORD-2025-0165,2025-12-14,CUST-0052,Reza Wibowo,reza.wibowo052@example.com,+628631001924,Ponorogo,jawa timur,sembako,Green Tea Pack,4.0,83000,0.0,cod,Delivered,4,332000
+ORD-2026-0159,2026-03-15,CUST-0070,Sarah Hakim,sarah.hakim070@example.com,08811002590,Surabaya,jawa timur,groceries,Chocolate Bar,4.0,105000,0.0,Bank Transfer,shipped,6,420000
+ORD-2026-0324,2026-07-14,CUST-0041,Agus Firmansyah,agus.firmansyah041@example.com,+628521001517,Denpasar,bali,home & living,Water Bottle,1.0,255000,25.0,ovo,dalam pengiriman,,191250
+ORD-2026-0085,2026-02-18,CUST-0027,Ilham Lestari,ilham.lestari027@example.com,+628381000999,Kediri,jawa timur,books,Novel Collection,5.0,77000,5.0,card,Delivered,2,365750
+ORD-2026-0171,2026-03-19,CUST-0053,Rani Permata,rani.permata053@example.com,+628641001961,Bekasi,jawa barat,groceries,Green Tea Pack,1.0,34000,10.0,cash on delivery,processing,0,30600
+ORD-2026-0235,2026-05-24,CUST-0012,Dinda Mahendra,dinda.mahendra012@example.com,08231000444,Bekasi,jawa barat,Fashion,Running Shoes,4.0,190000,20.0,E-Wallet,selesai,8,608000
+ORD-2026-0271,2026-06-01,CUST-0032,Nisa Firmansyah,unknown@invalid,08431001184,Serang,banten,sports,Sports Towel,4.0,123000,20.0,E-Wallet,processing,0,393600
+ORD-2026-0202,2026-06-29,CUST-0094,Hendra Amalia,hendra.amalia094@example.com,08171003478,DENPASAR,bali,books,Children Storybook,4.0,55000,0.1,cash on delivery,Delivered,9,198000
+ORD-2026-0299,2026-03-29,CUST-0039,Nisa  Firmansyah,nisa.firmansyah039@example.com,+628501001443,Semarang,jawa tengah,Fashion, Basic T-Shirt ,5.0,246000,0.0,credit card,return,9,1230000
+ORD-2026-0166,2026-09-16,CUST-0019,Aulia Setiawan,aulia.setiawan019@example.com,08301000703,Bogor,jawa barat,Fashion,Denim Jacket,2.0,432000,20.0,Bank Transfer,selesai,1,691200
+ORD-2026-0321,2026-05-12,CUST-0021,maya hidayat ,maya.hidayat021@example.com,+628321000777,Kediri,jawa timur,Fashion,Running Shoes,4.0,387000,0.0,credit card,dalam pengiriman,,1548000
+ORD-2026-0097,2026-04-13,CUST-0035,Anisa Pertiwi,anisa.pertiwi035@example.com,+628461001295,Jakarta Selatan,dki jakarta,Electronics,Power Bank,1.0,258000,,Bank Transfer,returned,2,258000
+ORD-2026-0304,2026-06-05,CUST-0043,Reza Permata,reza.permata043@example.com,+6212,Madiun,jawa timur,sports,YOGA MAT,5.0,58000,5.0,kartu kredit,processing,0,275500
+ORD-2026-0176,2026-07-06,CUST-0093,Dinda Suryani,dinda.suryani093@example.com,+628161003441, Solo,jawa tengah,beauty,Lip Balm,3.0,86000,0.15,credit card,returned,8,219300
+ORD-2026-0248,2026-02-17,CUST-0059, Putri Hakim,putri.hakim059@example.com,08701002183,Bandung,jawa barat,books,Sketching Journal,1.0,134000,0.0,Bank Transfer,Delivered,5,134000
+ORD-2026-0311,2026-02-24,CUST-0088,Dimas  Putri  ,dimas.putri088@example.com,+628111003256,Madiun,jawa timur,beauty,Sunscreen SPF 50,1.0,77000,0.0,credit card,Delivered,6,77000
+ORD-2026-0207,2026-12-04,CUST-0074,Fikri Permana,,+628851002738,Semarang,jawa tengah,home & living,DESK LAMP,2.0,42000,20.0,kartu kredit,returned,3,986310
+ORD-2026-0001,2026-09-24,CUST-0015,fajar santoso,fajar.santoso015@example.com,08261000555,Semarang,jawa tengah,Fashion,Canvas Tote Bag,2.0,422000,0.0,Bank Transfer,shipped,1,844000
+ORD-2026-0007,2026-08-29,CUST-0029,Putri Wulandari,putri.wulandari029@example.com,+628401001073,Malang,tidak diketahui,Fashion,Basic T-Shirt,1.0,214000,0.0,E-Wallet,selesai,8,214000
+ORD-2026-0140,2026-02-01,CUST-0067,galih santoso,galih.santoso067@example.com,08781002479,Tangerang,banten,sports,Yoga Mat,3.0,46000,0.0,cod,shipped,8,138000
+ORD-2026-0313,2026-06-03,CUST-0071,Rizky Permata,rizky.permata071@example.com,08821002627,Balikpapan,kalimantan timur,kecantikan,Lip Balm,5.0,78000,10.0,Bank Transfer,shipped,7,351000
+ORD-2026-0073,2026-04-07,CUST-0027,Arif Fauzi,arif.fauzi027@example.com,+628381000999,Surabaya,jawa timur,Fashion,Canvas Tote Bag,1.0,427000,25.0,cash on delivery,Cancelled,5,320250
+ORD-2026-0274,2026-03-03,CUST-0026, Dewi Wijaya,dewi.wijaya026@example.com,08371000962,Denpasar,bali,Electronics,Wireless Mouse,3.0,271000,20.0,Bank Transfer,Delivered,2,650400
+ORD-2025-0039,2025-12-04,CUST-0017,Reza Fauzi,reza.fauzi017@example.com,+628281000629,Tangerang,banten,books,Sketching Journal,4.0,105000,10.0,cod,Delivered,2,378000
+ORD-2026-0031,2026-04-18,CUST-0087,Nabila Mahendra ,,+628981003219,Yogyakarta,di yogyakarta,sports,Sports Towel,5.0,34000,15.0,Bank Transfer,Delivered,5,144500
+ORD-2026-0077,2026-09-27,CUST-0043,Aulia Prakoso ,aulia.prakoso043@example.com,08541001591,Tidak diketahui,jawa timur,buku,Novel Collection,2.0,84000,25.0,cash on delivery,Delivered,2,126000
+ORD-2026-0283,2026-03-31,CUST-0011,CITRA SURYANI ,citra.suryani011@example.com,08221000407,Semarang,jawa tengah,Electronics,USB-C Charger,1.0,674000,0.0,cash on delivery,shipped,2,674000
+ORD-2026-0058,2026-06-03,CUST-0088,Nadia Wulandari,nadia.wulandari088@example.com,+628111003256,Medan,sumatera utara,Electronics,Webcam HD,1.0,236000,10.0,cod,shipped,4,212400
+ORD-2026-0185,2026-10-09,CUST-0066,lestari hidayat ,lestari.hidayat066@example.com,+628771002442,Tidak diketahui,jawa timur,groceries,Honey 250ml,1.0,59000,15.0,Bank Transfer,Delivered,9,50150
+ORD-2026-0180,2026-07-26,CUST-0015,Aulia Hakim,aulia.hakim015@example.com,+628261000555,Malang,jawa timur,sports,Gym Bottle,1.0,110000,10.0,Bank Transfer,Delivered,5,99000
+ORD-2026-0252,2026-02-12,CUST-0031,Intan Wulandari,intan.wulandari031@example.com,+628421001147,Bogor,tidak diketahui,beauty,Lip Balm,5.0,118000,,card,Delivered,8,590000
+ORD-2026-0130,2026-06-27,CUST-0091,Budi Santoso ,budi.santoso091@example.com,08141003367,Ponorogo,jawa timur,home & living,Water Bottle,1.0,179000,10.0,credit card,Delivered,6,161100
+ORD-2026-0146,2026-04-24,CUST-0015,Dinda Pertiwi,dinda.pertiwi015@example.com,08261000555,Balikpapan,kalimantan timur,groceries,Chocolate Bar,3.0,100000,10.0,cash on delivery,shipped,4,270000
+ORD-2026-0265,2026-02-21,CUST-0026,Galih Amalia ,galih.amalia026@example.com,+6212,BOGOR,jawa barat,beauty,Sunscreen SPF 50,3.0,128000,10.0,E-Wallet,return,6,345600
+ORD-2026-0325,2026-05-30,CUST-0046,Andi Fauzi,andi.fauzi046@example.com,+628571001702,Balikpapan,kalimantan timur,beauty,Lip Balm,3.0,49000,0.0,cod,selesai,3,147000
+ORD-2026-0071,2026-06-13,CUST-0030,Rizky Ramadhan,rizky.ramadhan030@example.com,08411001110,Malang,jawa timur,Fashion,Cotton Hoodie,3.0,164000,0.25,card,dalam pengiriman,6,369000
+ORD-2026-0234,2026-01-18,CUST-0004,Citra Firmansyah,citra.firmansyah004@example.com,08151000148,Makassar,sulawesi selatan,beauty,Moisturizer,5.0,21000,0.05,Bank Transfer,processing,0,99750
+ORD-2026-0245,2026-08-06,CUST-0080,Ayu Maulana ,ayu.maulana080@example.com,08911002960,Medan,sumatera utara,sports,SKIPPING ROPE,4.0,75000,150.0,Bank Transfer,selesai,6,285000
+ORD-2026-0179,2026-07-13,CUST-0031,Rafi Mahendra ,rafi.mahendra031@example.com,08421001147,Solo,jawa tengah,Fashion,Cotton Hoodie,0.0,134000,0.0,credit card,diproses,0,402000
+ORD-2026-0062,2026-08-26,CUST-0062,RAFI SAPUTRA,rafi.saputra062@example.com,08731002294,Serang,banten,groceries,Oatmeal 1kg,2.0,117000,0.2,E-Wallet,Delivered,2,187200
+ORD-2026-0017,2026-06-15,CUST-0079,Anisa Ananda,anisa.ananda079@example.com,,Balikpapan,kalimantan timur,beauty,Sunscreen SPF 50,4.0,135000,125.0,E-Wallet,batal,3,513000
+ORD-2026-0243,2026-09-28,CUST-0047,Budi Wulandari,budi.wulandari047@example.com,08581001739,Ponorogo,jawa timur,Electronics,Mechanical Keyboard,4.0,500000,25.0,Bank Transfer,selesai,8,1500000
+ORD-2026-0023,2026-05-03,CUST-0040,dinda mahendra ,dinda.mahendra040@example.com,08511001480,Makassar,sulawesi selatan,books,Sketching Journal,4.0,114000,5.0,cash on delivery,Delivered,5,433200
+ORD-2026-0314,2026-01-13,CUST-0071,Ayu  Hakim,ayu.hakim071@example.com,,BEKASI,jawa barat,groceries,GREEN TEA PACK,1.0,107000,125.0,Bank Transfer,returned,3,107000
+ORD-2026-0055,2026-02-11,CUST-0016,Bagas Kurniawan,bagas.kurniawan016@example.com,,Kediri,jawa timur,beauty,Sunscreen SPF 50,4.0,42000,25.0,kartu kredit,processing,0,126000
+ORD-2026-0197,2026-02-18,CUST-0006,nabila wibowo,nabila.wibowo006@example.com,08171000222,Yogyakarta,di yogyakarta,Electronics,WIRELESS MOUSE,3.0,219000,25.0,cash on delivery,selesai,6,492750
+ORD-2025-0075,,CUST-0086,Tiara Ananda,tiara.ananda086@example.com,+628971003182,SURABAYA,jawa timur,kecantikan,SUNSCREEN SPF 50,2.0,37000,20.0,E-Wallet,selesai,,59200
+ORD-2026-0037,2026-04-20,CUST-0032,Dani Hidayat,dani.hidayat032@example.com,08431001184,Tangerang,banten,Fashion,Basic T-Shirt,5.0,151000,15.0,E-Wallet,Cancelled,2,334729
+ORD-2026-0086,2026-04-06,CUST-0015,Bagas Ananda,bagas.ananda015@example.com,+6212,Ponorogo,jawa timur,books,Children Storybook,4.0,65000,0.15,cash on delivery,selesai,8,221000
+ORD-2026-0192,2026-09-06,CUST-0017,Tari Suryani,tari.suryani017@example.com,+628281000629,Tangerang,banten,groceries,Green Tea Pack,1.0,101000,0.0,kartu kredit,Delivered,2,101000
+ORD-2025-0057,2025-11-12,CUST-0033,Lina Puspita,lina.puspita033@example.com,08441001221,Balikpapan,kalimantan timur,home & living,Desk Lamp,3.0,298000,0.0,E-Wallet,shipped,3,0
+ORD-2026-0301,2026-04-07,CUST-0086, tari kusuma ,tari.kusuma086@example.com,08971003182,DENPASAR,bali,kecantikan,Lip Balm,4.0,52000,5.0,cash on delivery,shipped,7,197600
+ORD-2026-0131,2026-04-03,CUST-0083,DIMAS MAULANA,dimas.maulana083@example.com,+628941003071,SERANG,banten,Fashion,Basic T-Shirt,3.0,240000,25.0,Bank Transfer,Delivered,9,540000
+ORD-2026-0150,2026-07-14,CUST-0018,Putri Pertiwi,putri.pertiwi018@example.com,+628291000666,Yogyakarta,di yogyakarta,groceries,Oatmeal 1kg,3.0,44000,15.0,Bank Transfer,Delivered,3,112200
+ORD-2026-0186,2026-01-04,CUST-0018,Yoga Santoso,yoga.santoso018@example.com,,Surabaya,jawa timur,Fashion, Running Shoes ,4.0,114000,0.0,ovo,shipped,7,456000
+ORD-2026-0296,2026-08-20,CUST-0037,Galih Fitriani,galih.fitriani037@example.com,08481001369,Serang,banten,Electronics,WIRELESS MOUSE,2.0,400000,25.0,cash on delivery,selesai,9,600000
+ORD-2025-0106,2025-10-12,CUST-0031, Tari Wibowo ,tari.wibowo031@example.com,08421001147,Bandung,jawa barat,olahraga,Yoga Mat,,139000,0.0,kartu kredit,Delivered,2,417000
+ORD-2026-0256,2026-03-23,CUST-0073,Intan Anggraini,intan.anggraini073@example.com,08841002701, Bandung,jawa barat,books,Business Workbook,5.0,74000,0.0,E-Wallet,diproses,0,370000
+ORD-2025-0094,2025-11-09,CUST-0076,Bayu Permana,bayu.permana076@example.com,08871002812,Semarang,jawa tengah,Fashion,Basic T-Shirt,1.0,449000,10.0,kartu kredit,shipped,9,404100
+ORD-2025-0213,2025-12-23,CUST-0028,Rani Wijaya,,,Bogor,jawa barat,groceries,Green Tea Pack,5.0,90000,20.0,Bank Transfer,Delivered,2,360000
+ORD-2026-0177,2026-08-14,CUST-0082,maya permata,maya.permata082@example.com,08931003034,Bekasi,jawa barat,olahraga,Tidak diketahui,3.0,,5.0,tidak diketahui,shipped,6,119700
+ORD-2026-0030,2026-08-20,CUST-0050, Rizky Wibowo,rizky.wibowo050@example.com,+628611001850,Denpasar,bali,Electronics,USB-C Charger,4.0,797000,25.0,cash on delivery,selesai,3,2391000
+ORD-2026-0198,2026-02-14,CUST-0019,Hendra Amalia,hendra.amalia019@example.com,08301000703,Medan,sumatera utara,beauty,Sunscreen SPF 50,2.0,176000,20.0,Bank Transfer,shipped,8,281600
+ORD-2026-0019,2026-05-21,CUST-0076,Dani Utami,dani.utami076@example.com,+628871002812,Surabaya,jawa timur,Electronics,Webcam HD,4.0,213000,,cod,Delivered,5,639000
+ORD-2025-0156,2025-12-12,CUST-0019,Raka Mahendra,raka.mahendra019@example.com,08301000703,Jakarta Timur,dki jakarta,Electronics,Power Bank,4.0,260000,,credit card,Cancelled,1,1328978
+ORD-2025-0104,2025-11-29,CUST-0030,Dimas  Putri,dimas.putri030@example.com,08411001110,Surabaya,jawa timur,books,Children Storybook,1.0,-25000,,E-Wallet,Cancelled,3,96900
+ORD-2026-0042,2026-09-07,CUST-0057, Dinda Wibowo,dinda.wibowo057@example.com,+628681002109,Bekasi,jawa barat,groceries, Chocolate Bar ,1.0,56000,10.0,Bank Transfer,Delivered,many,50400
+ORD-2026-0101,2026-09-19,CUST-0083,yoga amalia ,yoga.amalia083@example.com,+628941003071,Tangerang,banten,home & living,Ceramic Mug,1.0,58000,0.0,cod,Cancelled,1,58000
+ORD-2026-0326,2026-09-21,CUST-0057,Dewi Fitriani,dewi.fitriani057@example.com,+628681002109,MALANG,jawa timur,sports,Skipping Rope,4.0,79000,0.0,tidak diketahui,shipped,2,316000
+ORD-2026-0266,2026-01-31,CUST-0057, wulan wibowo ,wulan.wibowo057@example.com,+628681002109,Kediri,jawa timur,home & living,Ceramic Mug,3.0,281000,15.0,Bank Transfer,processing,0,716550
+ORD-2026-0270,2026-05-19,CUST-0027, Nadia Ramadhan,nadia.ramadhan027@example.com,08381000999,Bekasi,jawa barat,home and living, Storage Organizer ,4.0,106000,15.0,card,dalam pengiriman,9,360400
+ORD-2026-0082,2026-03-10,CUST-0085,Dani  Wibowo,dani.wibowo085@example.com,08961003145,Denpasar,bali,groceries,Tidak diketahui,1.0,69000,0.15,cash on delivery,dalam pengiriman,9,58650
+ORD-2026-0189,2026-03-12,CUST-0002,Rani Lestari ,rani.lestari002@example.com,08131000074,Bandung,jawa barat,buku,Business Workbook,4.0,124000,25.0,E-Wallet,Delivered,4,1060492
+ORD-2026-0300,2026-07-08,CUST-0001, Farhan Pratama,farhan.pratama001@example.com,+628121000037, Semarang,jawa tengah,Fashion,Running Shoes,4.0,236000,5.0,credit card,Delivered,3,896800
+ORD-2025-0006,2025-12-14,CUST-0094,Sarah Hakim,user@,08171003478,Kediri,jawa timur,groceries,Chocolate Bar,2.0,28000,20.0,cash on delivery,returned,3,44800
+ORD-2026-0059,2026-09-12,CUST-0054,Citra Nugroho,citra.nugroho054@example.com,+628651001998,Tidak diketahui,jawa barat,groceries,HONEY 250ML,5.0,104000,5.0,E-Wallet,processing,0,494000
+ORD-2026-0139,2026-02-26,CUST-0010,Arif Saputra,arif.saputra010@example.com,08211000370,Semarang,jawa tengah,Fashion,Canvas Tote Bag,2.0,0,5.0,Bank Transfer,processing,0,237500
+ORD-2026-0287,2026-02-28,CUST-0029, Lestari Ananda,lestari.ananda029@example.com,+628401001073,SOLO,jawa tengah,Electronics,Wireless Mouse,1.0,423000,20.0,E-Wallet,diproses,0,338400
+ORD-2025-0152,2025-11-12,CUST-0017,GALIH SURYANI,galih.suryani017@example.com,08281000629,Semarang,jawa tengah,sports,Yoga Mat,0.0,67000,10.0,Bank Transfer,Delivered,8,120600
+ORD-2026-0241,2026-03-25,CUST-0089,Bayu  Setiawan  ,bayu.setiawan089@example.com,+628121003293,Makassar,sulawesi selatan,Fashion,Canvas Tote Bag,2.0,125000,15.0,cod,selesai,7,212500
+ORD-2026-0200,2026-02-26,CUST-0015,Wulan Permana,wulan.permana015@example.com,08261000555,Madiun,jawa timur,Fashion,Running Shoes,2.0,237000,125.0,Bank Transfer,shipped,8,474000
+ORD-2025-0244,2025-06-11,CUST-0092, Anisa Anggraini,,08151003404,Kediri,jawa timur,home & living,Bedsheet Set,4.0,109000,10.0,Bank Transfer,selesai,,392400
+ORD-2026-0222,2026-08-24,CUST-0013,Rafi Puspita,rafi.puspita013@example.com,+628241000481,Semarang,jawa tengah,Electronics,Power Bank,5.0,561000,0.1,E-Wallet,selesai,2,2524500
+ORD-2026-0238,2026-05-22,CUST-0015, Aulia Suryani,aulia.suryani015@example.com,08261000555,Makassar,sulawesi selatan,beauty,Shampoo Herbal,5.0,0,5.0,card,diproses,0,684000
+ORD-2026-0262,2026-04-19,CUST-0095,Anisa Puspita,anisa.puspita095@example.com,08ABC123,Jakarta Timur,dki jakarta,Fashion,Basic T-Shirt,3.0,50000,0.0,credit card,Delivered,2,150000
+ORD-2026-0010,2026-09-14,CUST-0011,Maya Santoso,maya.santoso011@example.com,+628221000407,Tangerang,banten,books,Sketching Journal,3.0,82000,20.0,card,Delivered,7,196800
+ORD-2025-0246,2025-12-01,CUST-0048,Andi Ananda,andi.ananda048@example.com,08591001776,Palembang,sumatera selatan,home & living,Ceramic Mug,1.0,88000,10.0,card,dalam pengiriman,1,79200
+ORD-2025-0121,2025-12-22,CUST-0033,Sarah Kusuma,sarah.kusuma033@example.com,08441001221,SOLO,jawa tengah,home & living,Storage Organizer,1.0,76000,25.0,E-Wallet,Cancelled,3,57000
+ORD-2025-0049,2025-12-13,CUST-0021,ANDI PUSPITA,andi.puspita021@example.com,08321000777,Palembang,sumatera selatan,Fashion,Running Shoes,1.0,158000,25.0,cash on delivery,batal,1,118500
+ORD-2026-0154,2026-03-27,CUST-0061, Citra Putri,citra.putri061@example.com,+628721002257,Makassar,sulawesi selatan,sembako,Oatmeal 1kg,3.0,13000,25.0,cash on delivery,diproses,,999999
+ORD-2026-0237,2026-03-11,CUST-0075,Fikri Hidayat,fikri.hidayat075@example.com,+628861002775,Palembang,sumatera selatan,Electronics,Wireless Mouse,4.0,258000,25.0,ovo,Cancelled,1,774000
+ORD-2026-0112,2026-09-04,CUST-0036,Maya Hidayat,maya.hidayat036@example.com,+628471001332,Madiun,jawa timur,groceries,Green Tea Pack,-2.0,50000,20.0,cod,processing,0,80000
+ORD-2026-0317,2026-08-05,CUST-0014,Fajar  Setiawan,fajar.setiawan014@example.com,+628251000518,SERANG,banten,Electronics,USB-C Charger,2.0,639000,0.0,Bank Transfer,Delivered,2,969932
+ORD-2026-0201,2026-06-23,CUST-0054,farhan firmansyah,farhan.firmansyah054@example.com,+628651001998,Yogyakarta,di yogyakarta,Fashion,Denim Jacket,5.0,125000,25.0,ovo,shipped,9,468750
+ORD-2026-0181,2026-01-12,CUST-0091, Intan Wulandari,intan.wulandari091@example.com,08141003367,Bogor,jawa barat,Fashion,Basic T-Shirt,3.0,358000,0.05,cod,Delivered,1,1020300
+ORD-2026-0291,2026-05-23,CUST-0063, DIMAS UTAMI ,dimas.utami063@example.com,08741002331,SERANG,banten,Fashion,Running Shoes,1.0,443000,0.1,cash on delivery,selesai,8,398700
+ORD-2026-0093,,CUST-0083,Yoga Fauzi,yoga.fauzi083@example.com,08941003071,Balikpapan,kalimantan timur,books,Sketching Journal,1.0,107000,0.0,E-Wallet,diproses,0,107000
+ORD-2026-0233,2026-11-07,CUST-0015,Yoga Fauzi,yoga.fauzi015@example.com,08261000555,Jakarta Selatan,dki jakarta,Electronics,Mechanical Keyboard,3.0,259000,0.25,E-Wallet,processing,,582750
+ORD-2026-0145,2026-10-02,CUST-0001, Rani Hidayat ,rani.hidayat001@example.com,,Semarang,jawa tengah,groceries,Oatmeal 1kg,3.0,97000,0.1,cod,shipped,45,261900
+ORD-2026-0308,2026-03-24,CUST-0023,Aulia Puspita,aulia.puspita023@example.com,+628341000851,Balikpapan,kalimantan timur,sports,Gym Bottle,1.0,209000,20.0,cod,returned,5,167200
+ORD-2025-0076,2025-12-25,CUST-0013,Bayu Kusuma,bayu.kusuma013@example.com,08241000481,Bogor,jawa barat,Fashion,Cotton Hoodie,5.0,174000,25.0,credit card,selesai,7,
+ORD-2026-0063,2026-07-31,CUST-0044,Fajar Kurniawan,fajar.kurniawan044@example.com,+628551001628,Semarang,jawa tengah,buku,Children Storybook,2.0,93000,5.0,card,Delivered,,176700
+ORD-2026-0214,2026-04-07,CUST-0017, Dani Lestari,dani.lestari017@example.com,+628281000629,KEDIRI,jawa timur,beauty,Face Cleanser,1.0,24000,25.0,cod,processing,0,18000
+ORD-2026-0113,2026-02-11,CUST-0008,Ayu Fitriani,ayu.fitriani008@example.com,08191000296,Medan,sumatera utara,Electronics,USB-C Charger,2.0,355000,5.0,cod,shipped,2,674500
+ORD-2026-0116,2026-03-31,CUST-0013,Anisa Kusuma,anisa.kusuma013@example.com,08241000481,Semarang,jawa tengah,sports,Gym Bottle,2.0,199000,5.0,Bank Transfer,Delivered,4,378100
+ORD-2026-0022,2026-05-03,CUST-0060,Bagas Kurniawan,bagas.kurniawan060@example.com,08711002220,Jakarta Timur,dki jakarta,home & living,Ceramic Mug,4.0,191000,0.0,cash on delivery,Delivered,5,764000
+ORD-2026-0126,2026-02-19,CUST-0059,Anisa Nugroho,anisa.nugroho059@example.com,08701002183,Yogyakarta,di yogyakarta,Electronics,Bluetooth Speaker,1.0,723000,0.25,Bank Transfer,diproses,0,542250
+ORD-2025-0147,2025-12-18,CUST-0052,Citra Ramadhan,citra.ramadhan052@example.com,08631001924,Balikpapan,kalimantan timur,Fashion,Running Shoes,3.0,226000,0.0,kartu kredit,Delivered,4,678000
+ORD-2025-0199,2025-12-28,CUST-0020,Agus Kusuma,agus.kusuma020@example.com,08311000740,Bandung,jawa barat,Fashion,BASIC T-SHIRT,1.0,375000,5.0,kartu kredit,Delivered,5,356250
+ORD-2026-0040,2026-06-10,CUST-0013,Arif Ananda,arif.ananda013@example.com,+628241000481,Ponorogo,jawa timur,books,Novel Collection,5.0,114000,20.0,Bank Transfer,Delivered,7,456000
+ORD-2025-0050,2025-12-11,CUST-0003,Wulan Fitriani ,wulan.fitriani003@example.com,08141000111,PONOROGO,jawa timur,books,Children Storybook,1.0,103000,0.0,kartu kredit,Delivered,4,103000
+ORD-2026-0036,2026-08-28,CUST-0094,Intan Ananda,intan.ananda094@example.com,,Denpasar,bali,sports,Yoga Mat,4.0,182000,10.0,credit card,Delivered,6,
+ORD-2026-0188,2026-07-21,CUST-0061,Maya Saputra,maya.saputra061@example.com,08721002257,Yogyakarta,di yogyakarta,beauty,Moisturizer,3.0,94000,0.0,Bank Transfer,processing,0,282000
+ORD-2026-0334,2026-01-01,CUST-0016,Tidak diketahui,rafi.fitriani016@example.com,, Serang,banten,home and living,Water Bottle,4.0,146000,15.0,Bank Transfer,selesai,1,496400
+ORD-2026-0280,2026-05-29,CUST-0005,Arif Wibowo,arif.wibowo005@example.com,08161000185,Tangerang,banten,Fashion,Canvas Tote Bag,4.0,175000,25.0,card,shipped,8,525000
+ORD-2025-0282,2025-04-11,CUST-0022,citra permata,citra.permata022@example.com,08331000814,Madiun,jawa timur,Electronics,Webcam HD,4.0,612000,150.0,credit card,processing,0,2203200
+ORD-2026-0087,2026-06-16,CUST-0063,Ayu Pertiwi,ayu.pertiwi063@example.com,,Tangerang,banten,Electronics,Mechanical Keyboard,2.5,108000,5.0,E-Wallet,shipped,3,307800
+ORD-2026-0120,2026-09-15,CUST-0078,Budi Kurniawan,budi.kurniawan078@example.com,08891002886,Madiun,jawa timur,books, Novel Collection ,3.0,59000,0.25,Bank Transfer,shipped,4,132750
+ORD-2025-0074,2025-11-24,CUST-0073,Sarah Hakim,sarah.hakim073@example.com,+628841002701,Ponorogo,tidak diketahui,Electronics,USB-C Charger,5.0,673000,0.15,cod,Delivered,4,2860250
+ORD-2026-0167,2026-11-03,CUST-0022, Anisa Utami,anisa.utami022@example.com,+628331000814,Bekasi,jawa barat,sembako,Chocolate Bar,3.0,18000,10.0,Bank Transfer,Delivered,5,48600
+ORD-2026-0079,2026-09-21,CUST-0020,rizky saputra,rizky.saputra020@example.com,,Jakarta Selatan,dki jakarta,Electronics, Wireless Mouse ,1.0,390000,10.0,credit card,diproses,,351000
+ORD-2026-0066,2026-01-08,CUST-0065,Dani Utami,dani.utami065@example.com,+628761002405,Bekasi,jawa barat,groceries,Ground Coffee 200g,3.0,32000,20.0,cash on delivery,dalam pengiriman,3,76800
+ORD-2026-0110,2026-01-28,CUST-0022,Ayu Amalia,ayu.amalia022@example.com,+628331000814,Bekasi,jawa barat,Fashion,Basic T-Shirt,4.0,85000,20.0,cash on delivery,Delivered,3,272000
+ORD-2026-0009,2026-03-16,CUST-0059, Tari Ramadhan,tari.ramadhan059@example.com,08701002183,BALIKPAPAN,kalimantan timur,sports,SPORTS TOWEL,2.0,73000,0.05,E-Wallet,returned,9,138700
+ORD-2026-0275,2026-05-19,CUST-0028,Sarah Pertiwi,sarah.pertiwi028@example.com,08391001036,Tidak diketahui,jawa timur,olahraga,Skipping Rope,5.0,119000,0.0,Bank Transfer,batal,4,595000
+ORD-2026-0069,2026-08-14,CUST-0060, Ayu Pertiwi,ayu.pertiwi060@example.com,+628711002220,Surabaya,jawa timur,kecantikan,Moisturizer,1.0,75000,0.15,Bank Transfer,Delivered,6,63750
+ORD-2026-0258,2026-08-31,CUST-0081,Dani Pertiwi,dani.pertiwi081@example.com,08921002997,Semarang,jawa tengah,Fashion,Basic T-Shirt,4.0,167000,5.0,Bank Transfer,Cancelled,5,634600
+ORD-2025-0212,2025-11-28,CUST-0035,Dimas Fauzi,dimas.fauzi035@example.com,+628461001295,Jakarta Selatan,dki jakarta,Electronics, USB-C Charger ,3.0,617000,0.2,Bank Transfer,shipped,3,1480800
+ORD-2026-0084,2026-06-20,CUST-0041,Putri Ananda,putri.ananda041@example.com,+628521001517,Malang,jawa timur,groceries,Ground Coffee 200g,1.0,120000,0.05,Bank Transfer,diproses,0,114000
+ORD-2026-0292,2026-08-20,CUST-0017,Citra Hidayat,citra.hidayat017@example.com,08281000629,Kediri,jawa timur,sports,Gym Bottle,2.0,128000,25.0,Bank Transfer,Delivered,,192000
+ORD-2026-0060,2026-01-08,CUST-0034,Aulia Permana,aulia.permana034@example.com,08451001258,Jakarta Timur,dki jakarta,home & living,Ceramic Mug,4.0,51000,15.0,E-Wallet,Delivered,5,173400
+ORD-2026-0143,2026-05-23,CUST-0027,Nisa Ananda,nisa.ananda027@example.com,08381000999,Tidak diketahui,kalimantan timur,beauty,Sunscreen SPF 50,3.0,163000,15.0,cash on delivery,Delivered,5,415650
+ORD-2026-0032,2026-01-29,CUST-0011,Bayu Setiawan,bayu.setiawan011@example.com,08221000407,Jakarta Timur,dki jakarta,buku,Business Workbook,4.0,66000,0.0,cod,shipped,,264000
+ORD-2026-0230,2026-02-14,CUST-0077,Rizky Wulandari,rizky.wulandari077@example.com,08881002849,Solo,jawa tengah,olahraga,Resistance Band,4.0,71000,10.0,E-Wallet,Delivered,5,255600
+ORD-2026-0330,2026-04-02,CUST-0002,citra kusuma,citra.kusuma002@example.com,,Tangerang,banten,sports,Gym Bottle,1.0,55000,5.0,credit card,shipped,9,52250
+ORD-2026-0206,2026-07-07,CUST-0076,Tiara  Fauzi,tiara.fauzi076@example.com,+628871002812,Balikpapan,kalimantan timur,beauty,Shampoo Herbal,3.0,165000,0.0,credit card,Delivered,45,495000
+ORD-2025-0132,2025-12-24,CUST-0027,tari kusuma ,tari.kusuma027@example.com,+628381000999,Denpasar,bali,sports,Yoga Mat,2.0,31000,10.0,credit card,Delivered,2,55800
+ORD-2025-0310,2025-05-11,CUST-0014,Rafi Pratama,rafi.pratama014@example.com,08251000518,Yogyakarta,di yogyakarta,sembako,Ground Coffee 200g,2.0,29000,0.1,cod,Cancelled,3,52200
+ORD-2026-0277,2026-09-26,CUST-0006,INTAN PUTRI,intan.putri006@example.com,08171000222,Denpasar,bali,olahraga,Skipping Rope,1.0,83000,25.0,credit card,Delivered,4,62250
+ORD-2026-0044,2026-01-26,CUST-0010,Arif Saputra,arif.saputra010@example.com,+628211000370,Madiun,jawa timur,books,Business Workbook,3.0,119000,0.2,ovo,Delivered,3,285600
+ORD-2026-0163,2026-05-02,CUST-0020,Reza Prakoso,reza.prakoso020@example.com,08311000740,Jakarta Selatan,dki jakarta,books,Business Workbook,2.0,95000,25.0,card,selesai,7,142500
+ORD-2026-0261,2026-04-26,CUST-0026,Agus Permana,agus.permana026@example.com,+628371000962,Bekasi,jawa barat,groceries,Ground Coffee 200g,3.0,36000,0.2,cod,processing,0,86400
+ORD-2026-0142,2026-08-29,CUST-0095,  Siti  Santoso,siti.santoso095@example.com,08181003515,DENPASAR,bali,Fashion,Denim Jacket,4.0,437000,0.0,Bank Transfer,Delivered,9,1748000
+ORD-2026-0119,2026-02-23,CUST-0094,Agus Permata ,agus.permata094@example.com,08171003478,Surabaya,jawa timur,books,Business Workbook,1.0,123000,20.0,Bank Transfer,Delivered,5,98400
+ORD-2025-0327,2025-11-17,CUST-0002,Putri Fauzi,putri.fauzi002@example.com,08131000074,Jakarta Selatan,dki jakarta,groceries,Chocolate Bar,5.0,52000,5.0,E-Wallet,returned,7,247000
+ORD-2026-0228,2026-09-19,CUST-0057,Maya Hidayat,maya.hidayat057@example.com,08681002109,Jakarta Timur,dki jakarta,Fashion,Denim Jacket,3.0,,0.0,Bank Transfer,Delivered,9,1017000
+ORD-2026-0288,2026-08-03,CUST-0059,Dinda Fitriani,dinda.fitriani059@example.com,08701002183,Solo,jawa tengah,sembako,GREEN TEA PACK,4.0,99000,10.0,E-Wallet,shipped,3,356400
+ORD-2026-0089,2026-10-02,CUST-0017, Maya Ramadhan,maya.ramadhan017@example.com,+628281000629,Tidak diketahui,jawa timur,olahraga, Skipping Rope ,2.0,219000,150.0,cash on delivery,shipped,5,328500
+ORD-2026-0111,2026-08-18,CUST-0076,Wulan Anggraini,wulan.anggraini076@example.com,08871002812,Madiun,jawa timur,Electronics, Power Bank ,1.0,367000,25.0,credit card,Cancelled,3,275250
+ORD-2025-0236,2025-12-18,CUST-0006,Agus Permana,agus.permana006@example.com,08171000222,Tidak diketahui,sumatera utara,sports,Resistance Band,2.0,151000,15.0,tidak diketahui,Delivered,7,256700
+ORD-2026-0088,2026-06-19,CUST-0034,rizky wulandari,rizky.wulandari034@example.com,+628451001258,Kediri,jawa timur,beauty,Face Cleanser,2.0,73000,25.0,kartu kredit,Cancelled,5,109500
+ORD-2026-0253,2026-03-08,CUST-0055,Andi Hidayat,andi.hidayat055@example.com,08661002035,Malang,jawa timur,Electronics,Bluetooth Speaker,5.0,371000,20.0,ovo,Delivered,8,1484000
+ORD-2025-0229,2025-12-16,CUST-0060, Bayu Santoso,bayu.santoso060@example.com,+628711002220,Bandung,jawa barat,Electronics,Bluetooth Speaker,5.0,514000,0.15,kartu kredit,Delivered,6,2184500
+ORD-2026-0136,2026-07-08,CUST-0071,Maya Permana,,08821002627,Serang,banten,Electronics,USB-C Charger,2.0,626000,0.0,kartu kredit,processing,0,1252000
+ORD-2025-0053,2025-12-13,CUST-0094,Anisa Saputra,anisa.saputra094@example.com,+628171003478,Denpasar,bali,books,BUSINESS WORKBOOK,5.0,105000,5.0,Bank Transfer,Delivered,5,498750
+ORD-2026-0014,2026-01-31,CUST-0075,SITI ANGGRAINI,siti.anggraini075@example.com,08861002775,Madiun,jawa timur,books,Children Storybook,3.0,110000,10.0,Bank Transfer,Delivered,4,297000
+ORD-2025-0194,2025-12-06,CUST-0070,DANI MAULANA,dani.maulana070@example.com,+628811002590,Jakarta Timur,dki jakarta,sports, Sports Towel ,1.0,170000,15.0,kartu kredit,Delivered,5,144500
+ORD-2026-0196,2026-01-12,CUST-0063,Fikri Ramadhan ,fikri.ramadhan063@example.com,08741002331,Serang,banten,Electronics,Mechanical Keyboard,2.0,89000,0.0,Bank Transfer,Cancelled,1,178000
+ORD-2026-0320,2026-07-01,CUST-0033,Putri Puspita,putri.puspita033@example.com,08441001221,Ponorogo,jawa timur,Electronics,Power Bank,4.0,115000,5.0,credit card,Delivered,many,437000
+ORD-2026-0038,2026-01-04,CUST-0095,Lina Mahendra ,lina.mahendra095@example.com,08181003515,Madiun,jawa timur,olahraga,Yoga Mat,4.0,139000,25.0,credit card,shipped,2,417000
+ORD-2026-0020,2026-09-15,CUST-0020,Tari Hakim,tari.hakim020@example.com,+628311000740, Makassar,sulawesi selatan,olahraga,Yoga Mat,5.0,80000,10.0,card,processing,0,360000
+ORD-2026-0109,2026-03-15,CUST-0057,Andi Wibowo,andi.wibowo057@example.com,08681002109,Bogor,jawa barat,sembako,Honey 250ml,5.0,19000,150.0,Bank Transfer,Delivered,6,95000
+ORD-2026-0225,2026-07-26,CUST-0086,Nabila Ananda,nabila.ananda086@example.com,+628971003182,Palembang,sumatera selatan,home & living,Storage Organizer,1.0,146000,15.0,Bank Transfer,processing,0,124100
+ORD-2025-0043,2025-12-07,CUST-0051,Tari Maulana,tari.maulana051@example.com,+628621001887,Surabaya,jawa timur,beauty,Face Cleanser,3.0,167000,10.0,cash on delivery,processing,0,450900
+ORD-2026-0068,2026-08-03,CUST-0086,Lina Ananda,,08971003182,Tidak diketahui,jawa barat,olahraga,Gym Bottle,1.0,159000,10.0,kartu kredit,selesai,2,143100
+ORD-2026-0105,2026-01-20,CUST-0094,Anisa Pertiwi ,anisa.pertiwi094@example.com,08171003478,Makassar,sulawesi selatan,sports,Skipping Rope,2.0,206000,15.0,kartu kredit,Delivered,3,350200
+ORD-2026-0184,2026-01-30,CUST-0040,Wulan Firmansyah,wulan.firmansyah040@example.com,08511001480,Serang,banten,Electronics,Webcam HD,,463000,0.05,cash on delivery,shipped,1,2199250
+ORD-2026-0309,2026-02-01,CUST-0083,Nisa Puspita,nisa.puspita083@example.com,08941003071,Solo,jawa tengah,Fashion,Tidak diketahui,4.0,396000,15.0,E-Wallet,Delivered,2,1346400
+ORD-2026-0115,2026-09-24,CUST-0042,Lestari Wijaya,lestari.wijaya042@example.com,,Solo,jawa tengah,Fashion,Canvas Tote Bag,5.0,436000,0.0,Bank Transfer,Cancelled,5,2180000
+ORD-2026-0323,2026-08-06,CUST-0044,Lina Utami,lina.utami044@example.com,+6212,BEKASI,jawa barat,home & living,Storage Organizer,4.0,268000,15.0,E-Wallet,return,7,911200
+ORD-2026-0257,2026-03-21,CUST-0016,Siti Ramadhan,siti.ramadhan016@example.com,08271000592,Makassar,sulawesi selatan,home & living,Water Bottle,2.5,139000,0.0,kartu kredit,batal,5,139000
+ORD-2026-0289,2026-07-08,CUST-0094,NISA PUTRI,nisa.putri094@example.com,08171003478,Bandung,jawa barat,Electronics,Power Bank,4.0,420000,10.0,cash on delivery,return,7,1512000
+ORD-2026-0318,2026-05-28,CUST-0095,dinda santoso ,dinda.santoso095@example.com,08181003515,Palembang,sumatera selatan,groceries,Green Tea Pack,1.0,87000,0.25,cod,shipped,1,65250
+ORD-2026-0322,2026-09-24,CUST-0028, Dani Permata,dani.permata028@example.com,08391001036,Malang,jawa timur,books,Children Storybook,1.0,122000,25.0,cod,returned,4,91500
+ORD-2026-0148,2026-07-11,CUST-0074, Ayu Pertiwi,ayu.pertiwi074@example.com,+628851002738,Bandung,jawa barat,groceries,CHOCOLATE BAR,3.0,62000,0.0,E-Wallet,Delivered,7,186000
+ORD-2026-0045,2026-08-30,CUST-0008,Fajar Firmansyah,fajar.firmansyah008@example.com,,Kediri,jawa timur,home & living,Storage Organizer,4.0,44000,0.0,card,Cancelled,1,176000
+ORD-2026-0239,2026-01-07,CUST-0055,Fajar  Prakoso  ,fajar.prakoso055@example.com,+628661002035,Bandung,jawa barat,Fashion,RUNNING SHOES,4.0,286000,0.0,cod,shipped,,1144000
+ORD-2026-0051,2026-07-27,CUST-0047, Wulan Nugroho,wulan.nugroho047@example.com,08581001739,Balikpapan,kalimantan timur,books,Novel Collection,4.0,150000,0.0,cod,returned,5,600000
+ORD-2026-0033,2026-08-20,CUST-0046,Yoga Pratama,yoga.pratama046@example.com,+628571001702,Solo,jawa tengah,Electronics,Webcam HD,4.0,356000,0.0,Bank Transfer,Cancelled,4,1424000
+ORD-2026-0144,2026-01-14,CUST-0061,Tiara Suryani,tiara.suryani061@example.com,08721002257,Kediri,jawa timur,Electronics,USB-C Charger,2.0,454000,0.0,Bank Transfer,processing,0,908000
+ORD-2026-0127,2026-08-09,CUST-0089,Budi Pratama,budi.pratama089@example.com,08121003293,Jakarta Timur,dki jakarta,home & living,Bedsheet Set,4.0,-50000,0.0,cod,shipped,9,372000
+ORD-2026-0183,2026-08-12,CUST-0084,BAGAS UTAMI,bagas.utami084@example.com,08951003108,Solo,jawa tengah,books,Children Storybook,4.0,135000,0.0,E-Wallet,shipped,8,540000
+ORD-2026-0124,2026-04-19,CUST-0036,Lina Prakoso ,lina.prakoso036@example.com,08471001332, Bogor,jawa barat,books,Children Storybook,4.0,90000,0.0,cash on delivery,Delivered,8,360000
+ORD-2026-0102,2026-05-30,CUST-0071,Dewi Fauzi,dewi.fauzi071@example.com,08821002627,Kediri,jawa timur,home & living, Storage Organizer ,2.0,239000,0.0,ovo,shipped,9,478000
+ORD-2026-0254,2026-04-25,CUST-0082,Arif Prakoso,arif.prakoso082@example.com,08931003034,Medan,sumatera utara,home and living,Desk Lamp,,199000,0.0,cash on delivery,returned,,597000
+ORD-2026-0259,2026-09-09,CUST-0081,Fikri Amalia,user@,+628921002997,Madiun,jawa timur,sports,Yoga Mat,5.0,38000,5.0,cod,Delivered,7,180500
+ORD-2026-0250,2026-08-20,CUST-0081,Arif Setiawan ,,08921002997,Madiun,jawa timur,olahraga,Gym Bottle,1.0,74000,0.15,Bank Transfer,returned,9,62900
+ORD-2026-0267,2026-05-26,CUST-0052,Sarah Prakoso,sarah.prakoso052@example.com,+628631001924,Surabaya,jawa timur,kecantikan,Lip Balm,2.0,121000,0.0,E-Wallet,processing,0,1126897
+ORD-2025-0329,2025-12-13,CUST-0019, Ilham Lestari,ilham.lestari019@example.com,+628301000703,Tangerang,banten,sembako,Ground Coffee 200g,1.0,70000,15.0,Bank Transfer,Delivered,5,59500
+ORD-2026-0138,2026-06-29,CUST-0059,Maya Hakim,maya.hakim059@example.com,08701002183,Yogyakarta,di yogyakarta,Electronics,Webcam HD,5.0,723000,25.0,credit card,batal,3,2711250
+ORD-2026-0331,2026-05-07,CUST-0026,Dewi Utami,dewi.utami026@example.com,08371000962,Balikpapan,kalimantan timur,sports,Skipping Rope,4.0,215000,25.0,cash on delivery,Delivered,7,645000
+ORD-2025-0002,2025-12-18,CUST-0049,Sarah Hakim,sarah.hakim049@example.com,08601001813,JAKARTA SELATAN,dki jakarta,books,Sketching Journal,1.0,147000,15.0,Bank Transfer,returned,7,124950
+ORD-2026-0016,2026-02-10,CUST-0019,Ilham  Setiawan,ilham.setiawan019@example.com,0000,Bogor,jawa barat,kecantikan,LIP BALM,1.0,136000,0.1,E-Wallet,diproses,0,122400
+ORD-2026-0242,2026-04-24,CUST-0046,Raka Anggraini,raka.anggraini046@example.com,12345,Balikpapan,kalimantan timur,home & living,Desk Lamp,5.0,78000,0.2,Bank Transfer,returned,45,312000
+ORD-2026-0290,2026-01-14,CUST-0027,Yoga Permata,yoga.permata027@example.com,+628381000999,Bekasi,jawa barat,sports,Yoga Mat,3.0,210000,25.0,Bank Transfer,processing,0,472500
+ORD-2025-0281,2025-07-11,CUST-0015,Agus Kusuma,agus.kusuma015@example.com,+628261000555,Jakarta Timur,dki jakarta,beauty,Lip Balm,1.0,152000,0.0,cod,selesai,7,152000
+ORD-2026-0205,2026-06-23,CUST-0012,siti  ramadhan,,08231000444,Bandung,jawa barat,home & living,Ceramic Mug,1.0,109000,5.0,Bank Transfer,processing,0,103550
+ORD-2026-0137,2026-08-01,CUST-0060,Farhan Anggraini,farhan.anggraini060@example.com,08711002220,Kediri,jawa timur,beauty,Moisturizer,5.0,22000,20.0,E-Wallet,Cancelled,5,88000
+ORD-2026-0209,2026-04-12,CUST-0078,Bayu Permana,bayu.permana078@example.com,+628891002886,Malang,jawa timur,sports,Skipping Rope,4.0,62000,20.0,cod,Delivered,45,198400
+ORD-2026-0319,2026-05-04,CUST-0080,Tidak diketahui,nisa.mahendra080@example.com,08911002960,Jakarta Timur,dki jakarta,Fashion,Canvas Tote Bag,5.0,355000,0.0,E-Wallet,dalam pengiriman,8,1775000
+ORD-2026-0219,2026-09-06,CUST-0016,Bayu Ramadhan,bayu.ramadhan016@example.com,+628271000592,Yogyakarta,di yogyakarta,sembako,Oatmeal 1kg,4.0,70000,0.0,Bank Transfer,Delivered,5,280000
+ORD-2025-0263,2025-12-22,CUST-0003,Citra Lestari,citra.lestari003@example.com,08141000111,Tidak diketahui,jawa timur,home and living,Desk Lamp,3.0,258000,0.0,credit card,Cancelled,2,774000
+ORD-2026-0024,2026-03-21,CUST-0006,Tiara Amalia ,tiara.amalia006@example.com,08171000222,Solo,jawa tengah,sports,Resistance Band,4.0,51000,25.0,Bank Transfer,dalam pengiriman,8,153000
+ORD-2026-0333,2026-04-13,CUST-0089,Nisa Nugroho,nisa.nugroho089@example.com,08121003293,Yogyakarta,di yogyakarta,Fashion,Running Shoes,5.0,209000,0.0,Bank Transfer,Delivered,4,1045000
+ORD-2025-0182,2025-12-20,CUST-0059,Rafi Setiawan,rafi.setiawan059@example.com,08701002183,MEDAN,sumatera utara,kecantikan,Sunscreen SPF 50,2.0,56000,25.0,kartu kredit,Cancelled,4,84000
+ORD-2026-0072,2026-01-16,CUST-0039,Tiara Santoso,tiara.santoso039@example.com,+628501001443,Balikpapan,kalimantan timur,beauty,Sunscreen SPF 50,2.0,96000,25.0,E-Wallet,Cancelled,1,144000
+ORD-2025-0046,2025-11-21,CUST-0032,RIZKY PRAKOSO,rizky.prakoso032@example.com,+628431001184,Palembang,sumatera selatan,books,Business Workbook,3.0,125000,5.0,cash on delivery,Delivered,6,356250
+ORD-2026-0021,2026-04-27,CUST-0069,Hendra Hakim,,08801002553,Jakarta Selatan,dki jakarta,Electronics,Power Bank,3.0,87000,25.0,cod,Cancelled,1,172843
+ORD-2026-0027,2026-07-24,CUST-0084,Andi Wibowo ,andi.wibowo084@example.com,0000,Semarang,jawa tengah,Fashion,Cotton Hoodie,4.0,370000,25.0,cash on delivery,return,8,1110000
+ORD-2026-0302,2026-03-07,CUST-0080,Nadia Utami,nadia.utami080@example.com,08911002960,Palembang,sumatera selatan,Fashion,Canvas Tote Bag,3.0,437000,0.0,kartu kredit,returned,4,1311000
+ORD-2026-0100,2026-05-09,CUST-0006,Lina Santoso,lina.santoso006@example.com,08171000222,Yogyakarta,di yogyakarta,Fashion,Basic T-Shirt,2.0,227000,10.0,Bank Transfer,diproses,0,-100000
+ORD-2025-0018,2025-12-02,CUST-0027,Nisa Mahendra,nisa.mahendra027@example.com,08381000999,Tangerang,banten,olahraga,YOGA MAT,5.0,122000,,Bank Transfer,returned,5,549000
+ORD-2026-0157,2026-05-07,CUST-0082,Wulan Maulana,wulan.maulana082@example.com,,Jakarta Selatan,dki jakarta,Electronics,Webcam HD,2.0,190000,0.0,cash on delivery,Delivered,3,380000
+ORD-2026-0081,2026-10-04,CUST-0023,yoga mahendra,yoga.mahendra023@example.com,08341000851,SOLO,jawa tengah,sports,Sports Towel,5.0,87000,0.05,cod,Delivered,7,413250
+ORD-2026-0279,2026-06-07,CUST-0011,Farhan Ramadhan,farhan.ramadhan011@example.com,08221000407,BALIKPAPAN,kalimantan timur,Fashion,Cotton Hoodie,2.0,176000,0.1,cash on delivery,Delivered,5,316800
+ORD-2026-0035,2026-02-08,CUST-0016,Dinda Lestari ,dinda.lestari016@example.com,+628271000592,Semarang,jawa tengah,books,Children Storybook,3.0,57000,0.2,ovo,shipped,9,136800
+ORD-2026-0103,2026-01-21,CUST-0013,Yoga Permana,yoga.permana013@example.com,+628241000481,Bogor,jawa barat,home & living,Water Bottle,1.0,137000,15.0,cash on delivery,Delivered,3,116450
+ORD-2026-0080,2026-11-01,CUST-0035,Rizky Utami,rizky.utami035@example.com,08461001295, Makassar,sulawesi selatan,Fashion,Basic T-Shirt,2.0,267000,5.0,cash on delivery,Delivered,2,507300
+ORD-2025-0122,2025-12-29,CUST-0052,tiara fauzi,tiara.fauzi052@example.com,08631001924,Semarang,jawa tengah,groceries,Oatmeal 1kg,4.0,114000,10.0,E-Wallet,Delivered,1,410400
+ORD-2026-0169,2026-06-07,CUST-0040,Doni Suryani,doni.suryani040@example.com,08511001480,Medan,sumatera utara,books,Business Workbook,2.0,,15.0,ovo,batal,3,110500
+ORD-2026-0269,2026-08-19,CUST-0058,Sarah Fauzi,sarah.fauzi058@example.com,+628691002146,BANDUNG,jawa barat,Electronics,Webcam HD,5.0,256000,0.0,cash on delivery,selesai,4,1280000
+ORD-2025-0123,2025-11-07,CUST-0091,Galih Pratama,galih.pratama091@example.com,08141003367,Tangerang,banten,sports,Gym Bottle,2.0,196000,25.0,kartu kredit,shipped,,294000
+ORD-2026-0226,2026-02-07,CUST-0088,Ayu Hakim,ayu.hakim088@example.com,08111003256,Ponorogo,jawa timur,home & living,Storage Organizer,3.0,182000,0.0,Bank Transfer,Cancelled,1,546000
+ORD-2026-0247,2026-01-15,CUST-0092,Lestari Maulana,lestari.maulana092@example.com,08151003404,Denpasar,bali,Electronics,Wireless Mouse,1.0,510000,0.0,cash on delivery,Delivered,many,510000
+ORD-2026-0220,2026-04-14,CUST-0008,Wulan Setiawan,wulan.setiawan008@example.com,08191000296,Malang,jawa timur,Fashion,Denim Jacket,3.0,424000,15.0,Bank Transfer,diproses,0,1081200
+ORD-2026-0232,2026-04-05,CUST-0056,Galih Saputra,galih.saputra056@example.com,08671002072, Semarang,jawa tengah,buku,Sketching Journal,5.0,110000,0.1,E-Wallet,selesai,8,495000
+ORD-2025-0316,2025-12-18,CUST-0067,Wulan Pertiwi,wulan.pertiwi067@example.com,+628781002479,Bekasi,jawa barat,beauty,Lip Balm,1.0,76000,10.0,E-Wallet,Cancelled,5,75879
+ORD-2026-0078,2026-07-15,CUST-0045,Ilham Fauzi,ilham.fauzi045@example.com,+628561001665,Denpasar,tidak diketahui,Fashion,Basic T-Shirt,3.0,354000,25.0,cash on delivery,returned,6,796500
+ORD-2026-0090,2026-02-20,CUST-0055,ILHAM  MAULANA,ilham.maulana055@example.com,08661002035, Semarang,jawa tengah,home & living,Bedsheet Set,3.0,91000,15.0,cash on delivery,processing,0,232050
+ORD-2026-0061,2026-04-20,CUST-0061,Bagas Mahendra,bagas.mahendra061@example.com,08721002257,Ponorogo,jawa timur,books,Business Workbook,3.0,111000,0.0,cash on delivery,returned,5,333000
+ORD-2026-0096,2026-06-22,CUST-0066,  Tiara  Utami,tiara.utami066@example.com,08771002442,Makassar,sulawesi selatan,groceries,Chocolate Bar,2.0,59000,0.0,card,processing,0,118000
+ORD-2025-0303,2025-12-17,CUST-0007,Aulia Wijaya,aulia.wijaya007@example.com,+628181000259,Palembang,sumatera selatan,home & living,Desk Lamp,2.0,197000,0.1,cod,Delivered,7,354600
+ORD-2025-0217,2025-07-11,CUST-0087,FARHAN SAPUTRA,farhan.saputra087@example.com,08981003219,Madiun,jawa timur,beauty,Shampoo Herbal,5.0,41000,0.0,ovo,selesai,2,205000
+ORD-2026-0005,2026-03-31,CUST-0056,Ilham Anggraini,ilham.anggraini056@example.com,08671002072,Surabaya,jawa timur,sports,Skipping Rope,5.0,220000,0.0,Bank Transfer,Cancelled,3,1100000
+ORD-2026-0273,2026-01-30,CUST-0038,Siti Utami,siti.utami038@example.com,08491001406,Jakarta Timur,dki jakarta,Fashion,Basic T-Shirt,1.0,391000,0.05,E-Wallet,Delivered,3,999999
+ORD-2025-0118,2025-11-08,CUST-0042,Ayu  Saputra  ,ayu.saputra042@example.com,+628531001554,Surabaya,jawa timur,sports,Yoga Mat,2.0,82000,20.0,kartu kredit,Delivered,2,131200
+ORD-2026-0178,2026-05-31,CUST-0008,CITRA KUSUMA,citra.kusuma008@example.com,08191000296,Tangerang,banten,sports,Skipping Rope,5.0,162000,0.0,E-Wallet,dalam pengiriman,6,810000
+ORD-2026-0172,2026-07-23,CUST-0081,Fajar Lestari,fajar.lestari081@example.com,08921002997,Solo,jawa tengah,beauty,Shampoo Herbal,3.0,93000,10.0,ovo,Delivered,1,251100
+ORD-2026-0204,2026-08-15,CUST-0091,Fajar Puspita,fajar.puspita091@example.com,+628141003367,Yogyakarta,di yogyakarta,Fashion,Cotton Hoodie,1.0,377000,0.1,E-Wallet,processing,0,339300
+ORD-2025-0056,2025-12-04,CUST-0040,Wulan Wijaya,wulan.wijaya040@example.com,08511001480,Makassar,sulawesi selatan,books,Children Storybook,4.0,48000,0.0,credit card,shipped,8,192000
+ORD-2026-0028,2026-02-05,CUST-0067,dani santoso,dani.santoso067@example.com,08781002479,MAKASSAR,sulawesi selatan,sports,Sports Towel,-2.0,77000,5.0,ovo,returned,8,753305
+ORD-2026-0149,2026-08-08,CUST-0034,Dinda Ramadhan,dinda.ramadhan034@example.com,08451001258,Makassar,sulawesi selatan,buku,Sketching Journal,3.0,77000,0.1,cod,Delivered,6,207900
+ORD-2026-0173,2026-04-15,CUST-0089,Dinda  Nugroho,dinda.nugroho089@example.com,+628121003293,Madiun,jawa timur,Electronics,Wireless Mouse,,724000,0.05,Bank Transfer,shipped,7,1256624
+ORD-2025-0215,2025-12-17,CUST-0019,Hendra Pratama,hendra.pratama019@example.com,08301000703,Tidak diketahui,dki jakarta,home and living,Desk Lamp,5.0,148000,15.0,Bank Transfer,selesai,1,629000
+ORD-2026-0095,2026-03-06,CUST-0012,lestari fitriani,lestari.fitriani012@example.com,08231000444,Medan,sumatera utara,books, Novel Collection ,3.0,74000,0.0,Bank Transfer,processing,0,222000
+ORD-2026-0284,2026-03-03,CUST-0047, FAJAR PUSPITA,fajar.puspita047@example.com,08581001739,Serang,banten,Electronics,USB-C Charger,3.0,177000,0.0,cash on delivery,Cancelled,4,531000
+ORD-2026-0208,2026-08-17,CUST-0094,Fikri  Santoso  ,fikri.santoso094@example.com,08171003478,Madiun,jawa timur,sports,SPORTS TOWEL,1.0,60000,20.0,Bank Transfer,Delivered,7,48000
+ORD-2026-0133,2026-03-29,CUST-0088,dewi kusuma,dewi.kusuma088@example.com,08111003256,Kediri,jawa timur,home & living, Storage Organizer ,4.0,227000,25.0,Bank Transfer,shipped,9,681000
+ORD-2025-0190,2025-12-30,CUST-0007,Lina  Lestari,lina.lestari007@example.com,+628181000259,Jakarta Timur,dki jakarta,beauty,Moisturizer,4.0,156000,0.0,cash on delivery,processing,,201146
+ORD-2026-0125,2026-02-23,CUST-0059,DONI MAULANA,,+628701002183,Serang,banten,books,Children Storybook,3.0,145000,0.0,Bank Transfer,processing,0,435000
+ORD-2026-0067,2026-06-17,CUST-0035,Fajar Setiawan,,+628461001295,Tangerang,banten,sports,Gym Bottle,1.0,91000,0.2,card,diproses,0,72800
+ORD-2026-0218,2026-01-15,CUST-0059, Lestari Ananda,lestari.ananda059@example.com,+628701002183,Semarang,jawa tengah,kecantikan,Shampoo Herbal,2.0,180000,0.0,Bank Transfer,Delivered,1,423173
+ORD-2026-0293,2026-08-22,CUST-0027,Intan Puspita ,intan.puspita027@example.com,08381000999,Balikpapan,kalimantan timur,home & living,Ceramic Mug,1.0,88000,15.0,credit card,Delivered,9,74800
+ORD-2026-0260,2026-09-23,CUST-0066,yoga pertiwi,yoga.pertiwi066@example.com,08771002442,Denpasar,bali,beauty,Lip Balm,4.0,67000,0.0,E-Wallet,processing,0,268000
+ORD-2026-0099,2026-06-10,CUST-0017,GALIH SANTOSO,galih.santoso017@example.com,08281000629,Semarang,jawa tengah,groceries,Honey 250ml,4.0,101000,25.0,credit card,Delivered,5,303000
+ORD-2026-0114,2026-09-30,CUST-0053,Lina Puspita,lina.puspita053@example.com,08641001961,Surabaya,jawa timur,beauty,Sunscreen SPF 50,2.0,173000,0.25,Bank Transfer,Delivered,5,259500
+ORD-2026-0164,2026-01-01,CUST-0030,Dimas Amalia ,dimas.amalia030@example.com,+628411001110,Surabaya,jawa timur,olahraga,Sports Towel,1.0,103000,0.15,Bank Transfer,selesai,3,87550
+ORD-2026-0158,2026-04-01,CUST-0063,Dewi Pratama ,dewi.pratama063@example.com,08741002331,Balikpapan,kalimantan timur,groceries,Honey 250ml,4.0,0,0.0,Bank Transfer,diproses,0,420000
+ORD-2026-0231,2026-04-20,CUST-0031,dewi ramadhan ,dewi.ramadhan031@example.com,+628421001147,Jakarta Selatan,dki jakarta,books,Novel Collection,1.0,94000,,cod,selesai,7,79900
+ORD-2026-0015,2026-01-04,CUST-0071,Tidak diketahui,tiara.pertiwi071@example.com,+628821002627,Denpasar,bali,sports,Sports Towel,2.0,182000,15.0,credit card,Delivered,1,309400
+ORD-2026-0175,2026-04-19,CUST-0012,ayu fitriani,ayu.fitriani012@example.com,+628231000444,Denpasar,bali,Fashion,Canvas Tote Bag,3.0,357000,20.0,E-Wallet,returned,6,856800
+ORD-2026-0227,2026-02-16,CUST-0021,Intan Wibowo,intan.wibowo021@example.com,08321000777,Yogyakarta,di yogyakarta,groceries,Oatmeal 1kg,1.0,47000,0.25,Bank Transfer,Cancelled,4,35250
+ORD-2026-0251,2026-01-02,CUST-0054,Dewi Nugroho,dewi.nugroho054@example.com,08651001998,Palembang,sumatera selatan,home & living,Storage Organizer,3.0,71000,0.0,Bank Transfer,shipped,5,213000
+ORD-2025-0187,2025-11-20,CUST-0073,Nadia Pertiwi,nadia.pertiwi073@example.com,08841002701,Jakarta Selatan,dki jakarta,Electronics,Power Bank,4.0,782000,125.0,E-Wallet,diproses,0,1081776
+ORD-2026-0162,2026-05-31,CUST-0082, Sarah Saputra ,sarah.saputra082@example.com,08931003034,Yogyakarta,di yogyakarta,books,Business Workbook,5.0,84000,10.0,credit card,Delivered,8,378000
+ORD-2026-0160,2026-02-12,CUST-0014, Sarah Setiawan,sarah.setiawan014@example.com,08251000518,Madiun,jawa timur,Electronics,Power Bank,4.0,748000,10.0,credit card,Delivered,4,2692800
+ORD-2025-0008,,CUST-0032,Reza Suryani ,reza.suryani032@example.com,08431001184,Balikpapan,kalimantan timur,beauty,Sunscreen SPF 50,4.0,66000,5.0,cash on delivery,Delivered,2,250800
+ORD-2025-0083,2025-11-06,CUST-0013,Nabila Santoso,nabila.santoso013@example.com,08241000481,Palembang,sumatera selatan,sports,Gym Bottle,5.0,173000,20.0,ovo,Delivered,7,692000
+ORD-2026-0135,2026-03-26,CUST-0080,Rizky Fauzi,rizky.fauzi080@example.com,08911002960,Bekasi,jawa barat,home & living,Storage Organizer,4.0,193000,0.15,kartu kredit,processing,0,1129647
+ORD-2026-0224,2026-05-06,CUST-0083, Intan Wibowo,intan.wibowo083@example.com,08941003071,Bandung,jawa barat,home and living,Desk Lamp,1.0,157000,25.0,credit card,processing,0,0
+ORD-2026-0335,2026-05-21,CUST-0039,galih fauzi,galih.fauzi039@example.com,08501001443,Madiun,jawa timur,groceries,Honey 250ml,5.0,25000,0.0,E-Wallet,Delivered,1,125000
+ORD-2026-0328,2026-09-18,CUST-0034,Citra Lestari,citra.lestari034@example.com,08451001258,Yogyakarta,di yogyakarta,Fashion,Basic T-Shirt,1.0,58000,0.1,Bank Transfer,shipped,3,52200
+ORD-2026-0255,2026-05-12,CUST-0077,Rani Puspita,rani.puspita077@example.com,+628881002849,Bandung,jawa barat,groceries,GROUND COFFEE 200G,1.0,71000,5.0,E-Wallet,selesai,4,1329457
+ORD-2026-0221,2026-03-17,CUST-0003,Ayu Hidayat,ayu.hidayat003@example.com,+628141000111,Surabaya,jawa timur,home & living,Storage Organizer,5.0,224000,5.0,Bank Transfer,Cancelled,1,1064000
+ORD-2026-0223,2026-09-23,CUST-0069,Fajar Saputra,fajar.saputra069@example.com,+628801002553,Denpasar,bali,books,Novel Collection,5.0,81000,5.0,tidak diketahui,selesai,3,384750
+ORD-2026-0286,2026-10-06,CUST-0070,Wulan Wibowo,wulan.wibowo070@example.com,08811002590,Bekasi,jawa barat,Fashion,Basic T-Shirt,1.0,267000,20.0,Bank Transfer,selesai,6,213600
+ORD-2026-0141,2026-02-12,CUST-0067,Sarah Maulana,sarah.maulana067@example.com,08781002479, Denpasar,bali,sembako,Green Tea Pack,5.0,24000,0.0,cash on delivery,batal,5,120000
+ORD-2026-0315,2026-01-16,CUST-0024, arif puspita,arif.puspita024@example.com,+6212,PONOROGO,jawa timur,olahraga,Gym Bottle,3.0,145000,10.0,kartu kredit,Delivered,,391500
+ORD-2026-0193,2026-02-11,CUST-0079, ARIF FAUZI,arif.fauzi079@example.com,+628901002923,Makassar,sulawesi selatan,Electronics,Mechanical Keyboard,5.0,516000,0.0,Bank Transfer,batal,3,2580000
+ORD-2026-0151,2026-07-20,CUST-0063,Citra Kurniawan,citra.kurniawan063@example.com,08741002331,Kediri,jawa timur,kecantikan,Lip Balm,3.0,138000,0.2,ovo,Cancelled,3,331200
+ORD-2026-0025,2026-07-26,CUST-0049,Nabila Firmansyah ,name.example.com,08601001813,MEDAN,sumatera utara,home and living,Water Bottle,4.0,181000,15.0,Bank Transfer,shipped,2,615400
+ORD-2025-0092,2025-12-23,CUST-0041,Galih Nugroho,galih.nugroho041@example.com,+628521001517,Solo,jawa tengah,Fashion,Running Shoes,2.0,,0.2,E-Wallet,Delivered,1,596800
+ORD-2026-0129,2026-05-15,CUST-0050,Bagas Nugroho,bagas.nugroho050@example.com,08611001850,Yogyakarta,di yogyakarta,books,Novel Collection,-2.0,94000,0.0,cash on delivery,Cancelled,3,94000
+ORD-2025-0298,2025-11-08,CUST-0079,NADIA FIRMANSYAH,nadia.firmansyah079@example.com,08901002923,Surabaya,jawa timur,sports,Sports Towel,5.0,216000,5.0,E-Wallet,returned,9,1026000
+ORD-2026-0272,2026-05-29,CUST-0058, Dani Hakim ,dani.hakim058@example.com,+628691002146,Bekasi,jawa barat,books,Novel Collection,4.0,36000,0.0,cod,Delivered,7,144000
+ORD-2026-0153,2026-06-10,CUST-0046,Doni Kurniawan,doni.kurniawan046@example.com,08571001702,Makassar,sulawesi selatan,beauty,Lip Balm,3.0,160000,10.0,E-Wallet,returned,9,432000
+ORD-2025-0070,2025-12-31,CUST-0023,Lestari Pertiwi,lestari.pertiwi023@example.com,08341000851,PALEMBANG,sumatera selatan,Fashion,Canvas Tote Bag,1.0,432000,0.0,credit card,shipped,9,432000
+ORD-2025-0155,2025-06-12,CUST-0024,ANDI FITRIANI,andi.fitriani024@example.com,+628351000888,Madiun,jawa timur,olahraga,Sports Towel,5.0,140000,5.0,cash on delivery,Delivered,1,1257996
+ORD-2025-0294,2025-11-19,CUST-0025,Rizky Permata,rizky.permata025@example.com,+628361000925,Tidak diketahui,jawa barat,Fashion,COTTON HOODIE,5.0,155000,15.0,credit card,selesai,7,658750
+ORD-2026-0305,2026-08-07,CUST-0080,Tiara Amalia,tiara.amalia080@example.com,+628911002960,Makassar,sulawesi selatan,sembako,GREEN TEA PACK,5.0,104000,0.0,Bank Transfer,Delivered,7,520000
+ORD-2026-0013,2026-05-31,CUST-0004,Lestari Mahendra,lestari.mahendra004@example.com,08151000148,Yogyakarta,di yogyakarta,groceries,Oatmeal 1kg,2.0,46000,0.0,Bank Transfer,Delivered,1,92000
+ORD-2026-0026,2026-06-06,CUST-0015,ayu permana,ayu.permana015@example.com,+628261000555,Ponorogo,jawa timur,home & living, Desk Lamp ,1.0,55000,0.0,credit card,shipped,5,55000
+ORD-2026-0004,2026-01-13,CUST-0034,Fikri Kusuma,fikri.kusuma034@example.com,+628451001258,Balikpapan,kalimantan timur,buku,Sketching Journal,5.0,139000,15.0,cash on delivery,Delivered,3,590750
+ORD-2025-0249,2025-05-12,CUST-0006,Rizky Fitriani,rizky.fitriani006@example.com,+628171000222,Tangerang,banten,home and living,Water Bottle,4.0,197000,25.0,cod,shipped,3,591000
+ORD-2026-0195,2026-07-08,CUST-0011,Tiara Maulana,tiara.maulana011@example.com,08221000407,BEKASI,jawa barat,Fashion,Basic T-Shirt,2.0,57000,20.0,E-Wallet,shipped,2,91200
+ORD-2026-0029,2026-06-01,CUST-0062,Bagas  Mahendra,bagas.mahendra062@example.com,08731002294,Medan,sumatera utara,buku,Business Workbook,4.0,78000,0.15,E-Wallet,Cancelled,3,265200
+ORD-2026-0307,2026-02-23,CUST-0006,Farhan Kurniawan ,farhan.kurniawan006@example.com,+628171000222,Solo,jawa tengah,Electronics,Webcam HD,2.0,359000,0.0,credit card,Cancelled,1,718000
+ORD-2025-0191,2025-12-21,CUST-0033, Bagas Lestari ,bagas.lestari033@example.com,08441001221,Medan,sumatera utara,groceries, Green Tea Pack ,0.0,110000,,credit card,processing,0,-100000
+ORD-2026-0168,,CUST-0063,Yoga Setiawan,yoga.setiawan063@example.com,08741002331,Bandung,jawa barat,Electronics,USB-C Charger,3.0,438000,20.0,kartu kredit,Delivered,9,1051200
+ORD-2026-0134,2026-08-03,CUST-0071,Ilham Ananda,ilham.ananda071@example.com,08821002627,Bekasi,jawa barat,sports,Skipping Rope,2.0,130000,20.0,E-Wallet,Delivered,4,208000
+ORD-2026-0297,2026-06-13,CUST-0046,Putri Santoso ,putri.santoso046@example.com,08571001702,SOLO,jawa tengah,home and living, Storage Organizer ,5.0,142000,,Bank Transfer,returned,,674500
+ORD-2026-0264,2026-04-17,CUST-0032,Maya Permata,maya.permata032@example.com,08431001184,Semarang,jawa tengah,groceries,Green Tea Pack,5.0,86000,10.0,ovo,processing,0,387000
+ORD-2026-0052,2026-06-23,CUST-0005,Sarah Puspita,sarah.puspita005@example.com,+628161000185,Malang,jawa timur,sembako,Green Tea Pack,1.0,52000,0.05,cash on delivery,returned,9,279297
+ORD-2026-0065,2026-03-27,CUST-0083,Farhan Maulana,farhan.maulana083@example.com,+628941003071,Kediri,jawa timur,sports, Gym Bottle ,2.0,161000,20.0,Bank Transfer,batal,2,257600
+ORD-2026-0332,2026-06-08,CUST-0026,Hendra Utami,hendra.utami026@example.com,08371000962,Jakarta Selatan,dki jakarta,sports,YOGA MAT,4.0,67000,125.0,card,shipped,5,268000
+ORD-2026-0211,2026-01-03,CUST-0084,Fikri Pratama,test@@example.com,+628951003108,Bandung,jawa barat,beauty,Sunscreen SPF 50,1.0,50000,0.25,credit card,shipped,2,37500
+ORD-2026-0128,2026-08-26,CUST-0074,Dimas Amalia,dimas.amalia074@example.com,08851002738,Balikpapan,kalimantan timur,home & living,Storage Organizer,1.0,292000,0.0,Bank Transfer,Delivered,1,292000
+ORD-2026-0161,2026-02-19,CUST-0067,Putri Permana ,putri.permana067@example.com,+6212,Bogor,jawa barat,books,Children Storybook,2.0,79000,15.0,E-Wallet,shipped,3,134300
+ORD-2026-0216,2026-02-18,CUST-0066, Farhan Wulandari,farhan.wulandari066@example.com,08771002442,Madiun,jawa timur,groceries,Honey 250ml,1.0,71000,0.0,ovo,shipped,6,71000
+ORD-2026-0107,2026-03-31,CUST-0003,Anisa  Amalia,unknown@invalid,08141000111,Madiun,jawa timur,Electronics,USB-C Charger,2.0,459000,0.0,Bank Transfer,shipped,2,918000
+ORD-2026-0203,2026-02-03,CUST-0048,Rani Prakoso,rani.prakoso048@example.com,08591001776,Surabaya,jawa timur,groceries,Ground Coffee 200g,4.0,126000,20.0,card,shipped,5,403200
+ORD-2026-0285,2026-06-16,CUST-0030,Dimas Nugroho,dimas.nugroho030@example.com,08411001110,JAKARTA TIMUR,dki jakarta,sports,Gym Bottle,1.0,114000,10.0,cash on delivery,returned,2,102600
+ORD-2026-0276,2026-04-21,CUST-0003,Putri Suryani,putri.suryani003@example.com,+628141000111,Tangerang,banten,beauty,Shampoo Herbal,5.0,79000,15.0,Bank Transfer,Delivered,2,1058653
+ORD-2025-0306,2025-11-24,CUST-0073,Arif Ananda,arif.ananda073@example.com,08841002701,Bekasi,jawa barat,olahraga,Sports Towel,4.0,200000,15.0,Bank Transfer,Delivered,9,680000

@@ -1,0 +1,9 @@
+Metric,Before Cleansing,After Cleansing
+Jumlah Record,350,335
+Jumlah Kolom,17,17
+Duplicate Record,15,0
+Total Missing Value,87,66
+Unique Product Category,28,12
+Unique Payment Method,16,9
+Unique Order Status,20,10
+Unique Province,21,12
